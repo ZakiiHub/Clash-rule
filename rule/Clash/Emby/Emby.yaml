@@ -5,36 +5,36 @@ DOMAIN,e1.tls.ink
 
 # > Misakaf服务器
 
-DOMAIN,cdn.misakaf.org
-DOMAIN,push-kr.misakaf.org
-DOMAIN,porn.aca.best
-DOMAIN,emby.aca.best
-DOMAIN,102.223.180.108
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,stream4.misakaf.org
+DOMAIN-SUFFIX,cdn.misakaf.org,Emby
+DOMAIN-SUFFIX,push-kr.misakaf.org,Emby
+DOMAIN-SUFFIX,porn.aca.best,Emby
+DOMAIN-SUFFIX,emby.aca.best,Emby
+DOMAIN-SUFFIX,102.223.180.108,Emby
+DOMAIN-SUFFIX,stream1.misakaf.org,Emby
+DOMAIN-SUFFIX,stream2.misakaf.org,Emby
+DOMAIN-SUFFIX,stream3.misakaf.org,Emby
+DOMAIN-SUFFIX,stream4.misakaf.org,Emby
 # > TreeDiagram服务器
-DOMAIN,789.123456.al
+DOMAIN-SUFFIX,789.123456.al,Emby
 
 # > 终点站服务器
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub4.emby.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3.emby.wtf,Emby
+DOMAIN-SUFFIX,pub4.emby.wtf,Emby
 
-DOMAIN,public.emby.ws
+DOMAIN-SUFFIX,public.emby.ws,Emby
 
 # > Nmemby服务器
-DOMAIN,film.ohhhh.org
+DOMAIN-SUFFIX,film.ohhhh.org,Emby
 
 # > lyrebirdemby服务器
-DOMAIN,cdn.lyrebirdemby.com
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com,Emby
 # > gugu服务器
-DOMAIN,main.gugumedia.link
-DOMAIN,pro.gugumedia.link
-DOMAIN,front.gugumedia.link
-DOMAIN,gu.iuii.cc
+DOMAIN-SUFFIX,main.gugumedia.link,Emby
+DOMAIN-SUFFIX,pro.gugumedia.link,Emby
+DOMAIN-SUFFIX,front.gugumedia.link,Emby
+DOMAIN-SUFFIX,gu.iuii.cc,Emby
 
 # > micu服务器
-host,tv.micu.hk,direct
+DOMAIN-SUFFIX,tv.micu.hk,direct
