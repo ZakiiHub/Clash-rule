@@ -1,40 +1,86 @@
+# > 终点站直连
+DOMAIN-SUFFIX,pub1.emby.wtf,DIRECT
+DOMAIN-SUFFIX,pub2.emby.wtf,DIRECT
+DOMAIN-SUFFIX,pub3.emby.wtf,DIRECT
 
-# > TLS代理
-DOMAIN,e1.tls.ink
+#DOMAIN-SUFFIX,pub1.term.wtf,DIRECT
+#DOMAIN-SUFFIX,pub2.term.wtf,DIRECT
+#DOMAIN-SUFFIX,pub3.term.wtf,DIRECT
+
+# > 比比
+DOMAIN-SUFFIX,beebi.org,DIRECT
+
+# > Nanflix
+DOMAIN-SUFFIX,us.nanflix.net,DIRECT
+
+# > 月饼
+DOMAIN-SUFFIX,a.emby.my,DIRECT
+DOMAIN-SUFFIX,b.emby.my,DIRECT
+DOMAIN-SUFFIX,emby.my,DIRECT
+DOMAIN-SUFFIX,shanghai.emby.my,DIRECT
+
+# > Temby
+DOMAIN-SUFFIX,temby856.285286.xyz,DIRECT
+DOMAIN-SUFFIX,temby7528.516516.xyz,DIRECT
+DOMAIN-SUFFIX,temby3125.516516.xyz,DIRECT
+DOMAIN-SUFFIX,temby4837.516516.xyz,DIRECT
+DOMAIN-SUFFIX,23.106.153.14,DIRECT
+DOMAIN-SUFFIX,gerber.temby.wiki,DIRECT
+DOMAIN-SUFFIX,were.temby.wiki,DIRECT
+DOMAIN-SUFFIX,asset.temby.wiki,DIRECT
+# > Ask
+DOMAIN-SUFFIX,emby.711.lol,DIRECT
+
+# > 探花TV
+#DOMAIN-SUFFIX,www.tanhuatv.site,DIRECT
+
+# > 见手青
+DOMAIN-SUFFIX,jsq.mooguu.xyz,DIRECT
+
+# > 收束世界线
+DOMAIN-SUFFIX,tv.worldline.space,DIRECT
+# > 桃子私服
+DOMAIN-SUFFIX,embymv.top,DIRECT
+# > 桃子公益服
+DOMAIN-SUFFIX,embymv.link,DIRECT
+
+# > AWA影视
+#DOMAIN-SUFFIX,emby.awatv.de,DIRECT
 
 
-# > Misakaf服务器
 
-DOMAIN,cdn.misakaf.org
-DOMAIN,push-kr.misakaf.org
-DOMAIN,porn.aca.best
-DOMAIN,emby.aca.best
-DOMAIN,102.223.180.108
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,stream4.misakaf.org
-# > TreeDiagram服务器
-DOMAIN,789.123456.al
-
-# > 终点站服务器
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub4.emby.wtf
-
-DOMAIN,public.emby.ws
-
-# > Nmemby服务器
-DOMAIN,film.ohhhh.org
 
 # > lyrebirdemby服务器
-DOMAIN,cdn.lyrebirdemby.com
-# > gugu服务器
-DOMAIN,main.gugumedia.link
-DOMAIN,pro.gugumedia.link
-DOMAIN,front.gugumedia.link
-DOMAIN,gu.iuii.cc
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com,DIRECT
+IP-CIDR,188.172.228.65/22,DIRECT
 
+
+# > Misakaf VIP服务器
+DOMAIN-SUFFIX,embyvip.misakaf.org,DIRECT
+
+# > Misakaf服务器
+#DOMAIN-SUFFIX,aca.misakaf.org,DIRECT
+
+
+# > gugu服务器
+DOMAIN-SUFFIX,node1.guguemby.site,DIRECT
+DOMAIN-SUFFIX,v6.gugu.media,DIRECT
+DOMAIN-SUFFIX,node2.guguemby.site,DIRECT
+DOMAIN-SUFFIX,node3.guguemby.site,DIRECT
 # > micu服务器
-host,tv.micu.hk,direct
+DOMAIN-SUFFIX,micu.hk,DIRECT
+
+# > 飞跃彩虹服务器
+DOMAIN-SUFFIX,581658.best,DIRECT
+DOMAIN-SUFFIX,7777777.buzz,DIRECT
+DOMAIN-SUFFIX,cdn.7777777.buzz,DIRECT
+
+
+# > 叔服服务器
+DOMAIN-SUFFIX,jz.mcjoker.xyz,DIRECT
+
+
+# > 众筹服
+DOMAIN-SUFFIX,pemby.127255.best,DIRECT
+DOMAIN-SUFFIX,pemby.127255.best,DIRECT
+DOMAIN-SUFFIX,emby2.lilyya.xyz,DIRECT
